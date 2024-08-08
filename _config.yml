@@ -10,7 +10,7 @@ blog_theme: dark # Or use dark
 name: 백시헌
 tagline: 고등학생
 about-description: # Add Discription
-pic: 개.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: dog.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: bsh3862@gmail.com # Add your Email address
